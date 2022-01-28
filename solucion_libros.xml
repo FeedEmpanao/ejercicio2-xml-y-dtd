@@ -38,7 +38,7 @@ La casa del libro
 
 
   <libreria>
-  <nombre_libreria>La casa del libro</nombre_libreria>
+  <nombre_libreria2>La casa del libro</nombre_libreria2>
   <libro1>
   <ISBN>9782746049581</ISBN>
   <titulo>
@@ -64,16 +64,6 @@ La casa del libro
   </libro2>
   
 
-  <libro3>
-  <ISBN>9788441511866</ISBN>
-  <titulo>PROGRAMACION CON XML</titulo>
-  <nivel>básico</nivel>
-  <autor>EITO BRUN, RICARDO</autor>
-  <editorial>ANAYA MULTIMEDIA</editorial>
-  <fecha_publicacion>2001</fecha_publicacion>
-  <web/>
-  <precio moneda="Euro">45,55</precio>
-  </libro3>
   
 </libreria>
 
