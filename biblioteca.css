@@ -62,7 +62,7 @@
         text-transform: uppercase;
         text-rendering: optimizeLegibility;
         height: 130px;
-        margin-top: 247px;
+        margin-top: 408px;
         display: block;
         color: #131313;
         background-color: #e7e5e4;
@@ -75,12 +75,13 @@
         margin: solid;
         width: 150px;
         float: left;
-        height: 260px;
+        height: 420px;
         border: solid black;
         float: left;
         left: 300px;
-        background-image: url(Hnet.com-image.png);
+        background-image: url(librobuena.png);
         background-color: white;
+        text-align: center;
     }
     
     libro2 {
@@ -88,11 +89,11 @@
         border: solid black;
         float: right;
         right: 300px;
-        height: 260px;
+        height: 420px;
         width: 157px;
         position: relative;
         background-color: white;
-        background-image: url(Hnet.com-image.png);
+        background-image: url(librobuena.png);
     }
     
     libro3 {
@@ -100,29 +101,65 @@
         border: solid black;
         float: center;
         position: relative;
-        background-image: url(Hnet.com-image.png);
+        background-image: url(librobuena.png);
         background-color: white;
         width: 157px;
+    }
+    
+    ISBN:before {
+        content: "ISBN:";
+        display: block;
+        font-style: italic;
     }
     
     ISBN {
         display: block;
     }
     
+    titulo:before {
+        content: "Titulo:";
+        display: block;
+        font-style: italic;
+    }
+    
     titulo {
         display: block;
+    }
+    
+    nivel:before {
+        content: "Nivel:";
+        display: block;
+        font-style: italic;
     }
     
     nivel {
         display: block;
     }
     
+    autor:before {
+        content: "Autor:";
+        display: block;
+        font-style: italic;
+    }
+    
     autor {
         display: block;
     }
     
+    editorial:before {
+        content: "Editorial:";
+        display: block;
+        font-style: italic;
+    }
+    
     editorial {
         display: block;
+    }
+    
+    fecha_publicacion:before {
+        content: "Fecha de publicación";
+        display: block;
+        font-style: italic;
     }
     
     fecha_publicacion {
@@ -131,6 +168,12 @@
     
     web {
         display: block;
+    }
+    
+    precio:before {
+        content: "Precio:";
+        display: block;
+        font-style: italic;
     }
     
     precio {
