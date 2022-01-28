@@ -96,16 +96,6 @@
         background-image: url(librobuena.png);
     }
     
-    libro3 {
-        text-align: center;
-        border: solid black;
-        float: center;
-        position: relative;
-        background-image: url(librobuena.png);
-        background-color: white;
-        width: 157px;
-    }
-    
     ISBN:before {
         content: "ISBN:";
         display: block;
@@ -114,6 +104,7 @@
     
     ISBN {
         display: block;
+        color: #131313
     }
     
     titulo:before {
