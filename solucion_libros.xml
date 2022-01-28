@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE biblioteca SYSTEM "biblioteca.dtd">
+<?xml-stylesheet   type="text/css"  href="biblioteca.css"?>
+
+<biblioteca>
+<titulo_libreria>
+Biblioteca fantástica
+</titulo_libreria>
+
+<libreria>
+<nombre_libreria>
+La casa del libro
+</nombre_libreria>
+
+  <libro1>
+  <ISBN>9788441518261</ISBN>
+  <titulo>XML (Edición revisada y ampliada 2005)</titulo>
+  <nivel>básico</nivel>
+  <autor>Óscar González</autor>
+  <editorial>Anaya Multimedia</editorial>
+  <fecha_publicacion>03/2005</fecha_publicacion>
+  <web/>
+  <precio moneda="Euro">14,00</precio>
+  </libro1>
+
+  <libro2>
+  <ISBN>9788441515765</ISBN>
+  <titulo>XML</titulo>
+  <nivel>intermedio</nivel>
+  <autor>Juan Diego Gutiérrez Gallardo</autor>
+  <editorial>Anaya Multimedia</editorial>
+  <fecha_publicacion>04/2005</fecha_publicacion>
+  <web/>
+  <precio moneda="Euro"> 25,4</precio>
+  </libro2>
+  
+  </libreria>
+
+
+  <libreria>
+  <nombre_libreria>La casa del libro</nombre_libreria>
+  <libro1>
+  <ISBN>9782746049581</ISBN>
+  <titulo>
+  XML PRACTICO. BASES ESENCIALES, CONCEPTOS Y CASOS PRACTICOS
+  </titulo>
+  <nivel>básico</nivel>
+  <autor> BOULANGER, THIERRY</autor>
+  <editorial>ENI</editorial>
+  <fecha_publicacion>2005</fecha_publicacion>
+  <web/>
+  <precio moneda="Euro">26,96</precio>
+  </libro1>
+
+  <libro2>
+  <ISBN>9788441511866</ISBN>
+  <titulo>PROGRAMACION CON XML</titulo>
+  <nivel>básico</nivel>
+  <autor>EITO BRUN, RICARDO</autor>
+  <editorial>ANAYA MULTIMEDIA</editorial>
+  <fecha_publicacion>2001</fecha_publicacion>
+  <web/>
+  <precio moneda="Euro">45,55</precio>
+  </libro2>
+  
+
+  <libro3>
+  <ISBN>9788441511866</ISBN>
+  <titulo>PROGRAMACION CON XML</titulo>
+  <nivel>básico</nivel>
+  <autor>EITO BRUN, RICARDO</autor>
+  <editorial>ANAYA MULTIMEDIA</editorial>
+  <fecha_publicacion>2001</fecha_publicacion>
+  <web/>
+  <precio moneda="Euro">45,55</precio>
+  </libro3>
+  
+</libreria>
+
+  
+  </biblioteca>
