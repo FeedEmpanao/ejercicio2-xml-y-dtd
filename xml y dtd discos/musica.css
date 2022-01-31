@@ -1,0 +1,11 @@
+
+titulo_album {
+    display: block;
+    margin: solid black;
+    padding: 200px;
+}
+cancion {
+    display: block;
+    margin: solid black;
+    text-align: center;
+    }
