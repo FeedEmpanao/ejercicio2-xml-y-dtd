@@ -1,11 +1,34 @@
-
-titulo_album {
-    display: block;
-    margin: solid black;
-    padding: 200px;
+album {
+    background-color: aqua;
 }
 cancion {
     display: block;
     margin: solid black;
     text-align: center;
     }
+
+cd1 {
+    margin: solid;
+    margin: black;
+    position: absolute;
+    height: 140px;
+    width: 160px;
+    display: block;
+    padding: 50px;
+    float: left;
+    left: 240px;
+    background-image: url("cdbuena.jpg");
+}
+cd2 {
+    margin: solid;
+    margin: black;
+    position: absolute;
+    display: block;
+    padding: 50px;
+    float: right;
+    right:240px;
+    
+}
+titulo_album{
+    display: block;
+}
