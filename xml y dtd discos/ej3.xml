@@ -1,0 +1,216 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE musica SYSTEM "musica.dtd">
+
+<musica>
+<album>
+<titulo_album>
+En la imaginacion
+</titulo_album>
+<artista>
+Silvia Pérez Cruz
+</artista>
+<discografica>
+Nuba records
+</discografica>
+<fecha_publicacion>
+2011
+</fecha_publicacion>
+<ISRC>
+M-12237-2011
+</ISRC>
+<cd>
+<numerocd>
+1
+</numerocd>
+<cancion>
+<titulo_cancion>
+Debí llorar
+</titulo_cancion>
+<idioma>
+Castellano
+</idioma>
+<numero>
+01
+</numero>
+<duracion minutos="3" segundos="44">
+3:44
+</duracion>
+<imagen>
+devillorar.jpg
+</imagen>
+</cancion>
+
+<cancion>
+<titulo_cancion>
+Que dirías de mí
+</titulo_cancion>
+<idioma>
+Castellano
+</idioma>
+<numero>
+02
+</numero>
+<duracion minutos="2" segundos="25">
+2:25
+</duracion>
+<imagen>
+quediriasdemi.jpg
+</imagen>
+</cancion>
+
+<cancion>
+<titulo_cancion>
+Mi mejor cancion
+</titulo_cancion>
+<idioma>
+Castellano
+</idioma>
+<numero>
+03
+</numero>
+<duracion minutos="4" segundos="12">
+4:12
+</duracion>
+<imagen>
+mimejorcancion.jpg
+</imagen>
+</cancion>
+
+<cancion>
+<titulo_cancion>
+Belén
+</titulo_cancion>
+<idioma>
+Castellano
+</idioma>
+<numero>
+04
+</numero>
+<duracion minutos="2" segundos="56">
+2:56
+</duracion>
+<imagen>
+belen.jpg
+</imagen>
+</cancion>
+
+<cancion>
+<titulo_cancion>
+Ella y yo
+</titulo_cancion>
+<idioma>
+Castellano
+</idioma>
+<numero>
+05
+</numero>
+<duracion minutos="5" segundos="03">
+5:03
+</duracion>
+<imagen>
+ellayyo.jpg
+</imagen>
+</cancion>
+</cd>
+
+<cd>
+<numerocd>
+2
+</numerocd>
+<cancion>
+<titulo_cancion>
+En la imaginacion
+</titulo_cancion>
+<idioma>
+Castellano
+</idioma>
+<numero>
+06
+</numero>
+<duracion minutos="3" segundos="33">
+3:33
+</duracion>
+<imagen>
+enlaimaginacion.jpg
+</imagen>
+</cancion>
+
+<cancion>
+<titulo_cancion>
+La tarde
+</titulo_cancion>
+<idioma>
+Castellano
+</idioma>
+<numero>
+07
+</numero>
+<duracion minutos="1" segundos="47">
+1:47
+</duracion>
+<imagen>
+latarde.jpg
+</imagen>
+</cancion>
+
+<cancion>
+<titulo_cancion>
+Llora
+</titulo_cancion>
+<idioma>
+Castellano
+</idioma>
+<numero>
+08
+</numero>
+<duracion minutos="2" segundos="56">
+2:56
+</duracion>
+<imagen>
+llora.jpg
+</imagen>
+</cancion>
+
+<cancion>
+<titulo_cancion>
+Si te contara
+</titulo_cancion>
+<idioma>
+Castellano
+</idioma>
+<numero>
+09
+</numero>
+<duracion minutos="3" segundos="24">
+3:24
+</duracion>
+<imagen>
+sitecontara.jpg
+</imagen>
+</cancion>
+
+<cancion>
+<titulo_cancion>
+El panquelero
+</titulo_cancion>
+<idioma>
+Castellano
+</idioma>
+<numero>
+10
+</numero>
+<duracion minutos="3" segundos="07">
+3:07
+</duracion>
+<imagen>
+elpanquelero.jpg
+</imagen>
+</cancion>
+</cd>
+</album>
+</musica>
+
+
+
+
+
