@@ -1,34 +1,75 @@
 album {
     background-color: aqua;
 }
+
 cancion {
     display: block;
     margin: solid black;
     text-align: center;
-    }
+}
+
+musica {
+    background-image: url("fondomadera.jpg");
+}
 
 cd1 {
     margin: solid;
     margin: black;
     position: absolute;
-    height: 140px;
+    height: 410px;
     width: 160px;
     display: block;
-    padding: 50px;
     float: left;
-    left: 240px;
-    background-image: url("cdbuena.jpg");
+    left: 270px;
+    top: 130px;
+    background-color: burlywood;
 }
+
 cd2 {
     margin: solid;
     margin: black;
     position: absolute;
     display: block;
-    padding: 50px;
+    height: 410px;
+    width: 160px;
     float: right;
-    right:240px;
-    
+    right: 270px;
+    top: 130px;
+    background-color: burlywood;
 }
-titulo_album{
+
+titulo_album {
     display: block;
+    text-align: center;
+    font-size: xx-large;
+    padding-bottom: 50px;
+    position: absolute;
+    float: center;
+    top: 40px;
+    right: 200px;
+    left: 200px;
+}
+
+numero {
+    display: list-item;
+    text-align: left;
+    padding-bottom: 20px;
+    left: 9mm;
+    position: absolute;
+    padding-bottom: 10px;
+}
+
+titulo_cancion {
+    font-weight: 700;
+    display: block;
+    padding: 10px;
+}
+
+artista {
+    float: right;
+    position: absolute;
+    height: 1280px;
+    width: 180px;
+    background-color: antiquewhite;
+    left: 1100px;
 }

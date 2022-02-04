@@ -24,60 +24,50 @@ M-12237-2011
 1
 </numerocd>
 <cancion>
-<titulo_cancion>
-Debí llorar
-</titulo_cancion>
-<idioma>
-Castellano
-</idioma>
 <numero>
 01
 </numero>
+<titulo_cancion>
+Debí llorar
+</titulo_cancion>
+
 <duracion minutos="3" segundos="44">
 3:44
 </duracion>
 </cancion>
 
 <cancion>
-<titulo_cancion>
-Que dirías de mí
-</titulo_cancion>
-<idioma>
-Castellano
-</idioma>
 <numero>
 02
 </numero>
+<titulo_cancion>
+Que dirías de mí
+</titulo_cancion>
+
 <duracion minutos="2" segundos="25">
 2:25
 </duracion>
 </cancion>
 
 <cancion>
-<titulo_cancion>
-Mi mejor cancion
-</titulo_cancion>
-<idioma>
-Castellano
-</idioma>
 <numero>
 03
 </numero>
+<titulo_cancion>
+Mi mejor cancion
+</titulo_cancion>
 <duracion minutos="4" segundos="12">
 4:12
 </duracion>
 </cancion>
 
 <cancion>
-<titulo_cancion>
-Belén
-</titulo_cancion>
-<idioma>
-Castellano
-</idioma>
 <numero>
 04
 </numero>
+<titulo_cancion>
+Belén
+</titulo_cancion>
 <duracion minutos="2" segundos="56">
 2:56
 </duracion>
@@ -85,15 +75,12 @@ Castellano
 </cancion>
 
 <cancion>
-<titulo_cancion>
-Ella y yo
-</titulo_cancion>
-<idioma>
-Castellano
-</idioma>
 <numero>
 05
 </numero>
+<titulo_cancion>
+Ella y yo
+</titulo_cancion>
 <duracion minutos="5" segundos="03">
 5:03
 </duracion>
@@ -106,15 +93,12 @@ Castellano
 2
 </numerocd>
 <cancion>
-<titulo_cancion>
-En la imaginacion
-</titulo_cancion>
-<idioma>
-Castellano
-</idioma>
 <numero>
 06
 </numero>
+<titulo_cancion>
+En la imaginacion
+</titulo_cancion>
 <duracion minutos="3" segundos="33">
 3:33
 </duracion>
@@ -122,60 +106,49 @@ Castellano
 </cancion>
 
 <cancion>
-<titulo_cancion>
-La tarde
-</titulo_cancion>
-<idioma>
-Castellano
-</idioma>
 <numero>
 07
 </numero>
+<titulo_cancion>
+La tarde
+</titulo_cancion>
 <duracion minutos="1" segundos="47">
 1:47
 </duracion>
 </cancion>
 
 <cancion>
-<titulo_cancion>
-Llora
-</titulo_cancion>
-<idioma>
-Castellano
-</idioma>
 <numero>
 08
 </numero>
+<titulo_cancion>
+Llora
+</titulo_cancion>
 <duracion minutos="2" segundos="56">
 2:56
 </duracion>
 </cancion>
 
 <cancion>
-<titulo_cancion>
-Si te contara
-</titulo_cancion>
-<idioma>
-Castellano
-</idioma>
 <numero>
 09
 </numero>
+<titulo_cancion>
+Si te contara
+</titulo_cancion>
 <duracion minutos="3" segundos="24">
 3:24
 </duracion>
 </cancion>
 
 <cancion>
-<titulo_cancion>
-El panquelero
-</titulo_cancion>
-<idioma>
-Castellano
-</idioma>
 <numero>
 10
 </numero>
+<titulo_cancion>
+El panquelero
+</titulo_cancion>
+Castellano
 <duracion minutos="3" segundos="07">
 3:07
 </duracion>
