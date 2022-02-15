@@ -22,7 +22,7 @@ cd1 {
     float: left;
     left: 270px;
     top: 180px;
-    background-color: burlywood;
+    background-image: url(../fondo\ silvia.jpg);
 }
 
 cd2 {
@@ -35,7 +35,7 @@ cd2 {
     float: right;
     right: 270px;
     top: 180px;
-    background-color: burlywood;
+    background-image: url(../fondo\ silvia.jpg);
 }
 
 titulo_album {
