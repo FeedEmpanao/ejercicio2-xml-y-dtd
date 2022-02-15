@@ -21,7 +21,7 @@ cd1 {
     display: block;
     float: left;
     left: 270px;
-    top: 130px;
+    top: 180px;
     background-color: burlywood;
 }
 
@@ -34,7 +34,7 @@ cd2 {
     width: 160px;
     float: right;
     right: 270px;
-    top: 130px;
+    top: 180px;
     background-color: burlywood;
 }
 
@@ -72,4 +72,20 @@ artista {
     width: 180px;
     background-color: antiquewhite;
     left: 1100px;
+    display: block;
+    text-align: center;
+    margin-bottom: solid black;
+    top: 60px;
+}
+
+bio_artista {
+    float: right;
+    position: absolute;
+    height: 1280px;
+    width: 180px;
+    left: 1100px;
+    top: 120px;
+    background-image: url(../fondo\ silvia.jpg);
+    text-align: center;
+    text-rendering: optimizeLegibility;
 }
