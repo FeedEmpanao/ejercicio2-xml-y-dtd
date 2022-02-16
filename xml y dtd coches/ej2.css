@@ -1,74 +1,78 @@
 vehiculo1 {
     display: block;
-    height:530px;
-    width:2560px;
+    height: 530px;
+    width: 2560px;
     border: solid black;
     background-image: url("ford-focus-nuevo_1_2560x560.jpg");
-
 }
+
 vehiculo2 {
     display: block;
-    height:530px;
-    width:2560px;
-    border: solid black;
-
+    height: 530px;
+    width: 2560px;
+    float: left;
 }
+
 marca {
     display: block;
-    text-align: center;
     width: 2560px;
-    height:35px;
-    background-color: red;
-    background-position: 35px;
+    height: 70px;
+    float: left;
 }
-modelo::before {
-    padding-top: 35px;
+
+ficha _tecnica {
+    height: 560px;
+    width: 410px;
+    position: absolute;
+    left: 70px;
+    background-image: url("hoja\ blanca.jpg");
 }
+
 modelo {
     display: block;
-    text-align: center;
     width: 2560px;
-    height:35px;
-    padding-bottom: 35px;
+    height: 70px;
+    float: left;
 }
-motor{
+
+motor {
     display: block;
-    text-align: center;
     width: 2560px;
-    height:35px;
-    padding-bottom: 35px;
+    height: 70px;
+    float: left;
 }
+
 matricula {
     display: block;
-    text-align: center;
     width: 2560px;
-    height:35px;
-    padding-bottom: 35px;
+    height: 70px;
+    float: left;
 }
+
 kilometros {
     display: block;
-    text-align: center;
     width: 2560px;
-    height:35px;
-    padding-bottom: 35px;
+    height: 70px;
+    float: left;
 }
+
 precio_inicial {
     display: block;
-    text-align: center;
     width: 2560px;
-    height:35px;
-    padding-bottom: 35px;
+    height: 70px;
+    float: left;
 }
+
 precio_oferta {
     display: block;
-    text-align: center;
     width: 2560px;
-    height:35px;
-    padding-bottom: 30px;
+    height: 70px;
+    float: left;
 }
+
 extra {
     display: block;
-    text-align: center;
     width: 2560px;
-    height:35px;
+    height: 70px;
+    float: left;
 }

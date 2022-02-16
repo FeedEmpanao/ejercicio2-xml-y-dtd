@@ -5,6 +5,8 @@
 <concesionario>
 <vehiculo>
 	<vehiculo1>
+	<ficha_tecnica>
+	</ficha_tecnica>
 	<marca>
 		Ford
 	</marca>
@@ -33,6 +35,8 @@
 	</vehiculo>
 <vehiculo>
 	<vehiculo2>
+	<ficha_tecnica>
+	a
 	<marca>
 		Ford
 	</marca>
@@ -55,16 +59,12 @@
 		90000
 	</precio_oferta>
 	<extra valor="250">
-		pintura metalizada
+		Pintura metalizada
 	</extra>
-	<extra valor="200">
-		spoiler trasero
-	</extra>
-	<extra valor="500">
-		climatizador
-	</extra>
+	</ficha_tecnica>
 	</vehiculo2>
 	</vehiculo>
+	
 </concesionario>
 	
 		
